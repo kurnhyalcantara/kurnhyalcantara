@@ -13,10 +13,10 @@ Hi, I'm [Kurniawan Alcantara](https://kurnhy.my.id/), a passionate self-taught F
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img alt="GIF" src="https://github.com/kurnhyalcantara/kurnhyalcantara/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/kurnhyalcantara/kurnhyalcantara/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://instagram.com/kurnhyalcantara24);
+- 📫 How to reach me: [@kurnhyalcantara24](https://instagram.com/kurnhyalcantara24);
 
 **Languages and Tools:**  
 
