@@ -33,7 +33,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Go           13 hrs 47 mins  ████████████████████████░   96.51 %
 JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
