@@ -34,9 +34,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Go           24 hrs 58 mins  ██████████████████████░░░   87.80 %
-YAML         3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Go           24 hrs 58 mins  ██████████████████████▒░░   89.56 %
+YAML         2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
