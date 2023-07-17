@@ -6,7 +6,7 @@
 <a href="https://twitter.com/kurnhyalc24">
   <img align="left" alt="Kurniawan Alcantara | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kurnhyalcantara/">
+<a href="https://www.linkedin.com/in/kurnhyalcantara">
   <img align="left" alt="Kurniawan Alcantara | Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" />
 </a>
 
