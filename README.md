@@ -34,9 +34,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 hrs 40 mins   ████████████████████████░   95.55 %
-JavaScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go   48 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
