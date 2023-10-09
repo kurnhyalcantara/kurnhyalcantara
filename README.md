@@ -34,7 +34,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash   9 mins          ██████████████████░░░░░░░   71.98 %
+Go     3 mins          ███████░░░░░░░░░░░░░░░░░░   28.02 %
 ```
 
 <!--END_SECTION:waka-->
