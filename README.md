@@ -34,11 +34,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Go               7 hrs 17 mins   ███████████████████████░░   92.15 %
-Other            23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Makefile         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Objective-C      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Go           5 hrs 30 mins   ███████████████████████▓░   95.31 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
