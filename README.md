@@ -34,7 +34,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go         22 mins         █████████████████████▒░░░   84.78 %
+Makefile   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Bash       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
