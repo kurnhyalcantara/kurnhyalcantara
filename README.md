@@ -34,7 +34,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Go   0 secs          █████████████████████████   100.00 %
+Go           3 hrs           ████████████████████████░   96.25 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
