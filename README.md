@@ -34,10 +34,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Go         15 mins         █████████████░░░░░░░░░░░░   52.49 %
-Markdown   11 mins         ██████████░░░░░░░░░░░░░░░   40.00 %
-Makefile   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-SQL        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Git Config   1 min           ███████████▒░░░░░░░░░░░░░   44.85 %
+Makefile     0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+Other        0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+Go           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
