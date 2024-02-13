@@ -34,11 +34,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Go                4 hrs 35 mins   █████████████████████▒░░░   84.67 %
-Protocol Buffer   37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Bash              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Go                8 hrs 53 mins   █████████████████████▓░░░   87.16 %
+Protocol Buffer   1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Bash              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
