@@ -47,7 +47,7 @@ I bring with me a wealth of experience from my tenure at PT Bank Rakyat Indonesi
 Go                16 hrs 4 mins   ███████████████████████▓░   94.13 %
 Protocol Buffer   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 JavaScript        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JSON              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JSON              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 Bash              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
