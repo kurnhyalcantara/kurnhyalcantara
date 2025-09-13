@@ -44,11 +44,11 @@ I bring with me a wealth of experience from my tenure at PT Bank Rakyat Indonesi
 <!--START_SECTION:waka-->
 
 ```txt
-Go                36 hrs 50 mins  ███████████████████████▒░   93.78 %
-TypeScript        1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Protocol Buffer   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Bash              14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go                31 hrs 16 mins  ███████████████████████▓░   94.09 %
+TypeScript        1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Protocol Buffer   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Bash              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
