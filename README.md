@@ -1,7 +1,5 @@
 ## Hi, I'm [Kurniawan](https://kurnhy.vercel.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://instagram.com/kurnhyalcantara24">
-  <img align="left" alt="Kurniawan Alcantara | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/kurnhyalc24">
   <img align="left" alt="Kurniawan Alcantara | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
@@ -17,7 +15,7 @@
 
   <img alt="GIF" src="https://github.com/kurnhyalcantara/kurnhyalcantara/blob/main/code.gif?raw=true"/>
   
-- 📫 How to reach me: [@kurnhyalcantara24](https://instagram.com/kurnhyalcantara24);
+- 📫 How to reach me: [@kurnhyalc24](https://twitter.com/kurnhyalc24);
 
 **Languages and Tools:**
 
@@ -66,12 +64,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- TODO-IST:END -->
 
-📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kurnhyalcantara&show_icons=true&theme=gotham" alt="kurnhyalcantara" />
-
-<br/>
-
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=0ay5rzmzkb6eldm2sn78z1ras&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="kurnhyalcantara" />
 
 
