@@ -21,21 +21,21 @@
 
 **Languages and Tools:**
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
-  <img height="40" alt="Go" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
-  <img height="40" alt="gRPC" src="https://img.shields.io/badge/-gRPC-2DB67D?style=flat-square&logo=grpc&logoColor=white" />
-  <img height="40" alt="Protocol Buffers" src="https://img.shields.io/badge/-Protocol%20Buffers-009688?style=flat-square&logo=protocol-buffers&logoColor=white" />
-  <img height="40" alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
-  <img height="40" alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img height="40" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img height="40" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img height="40" alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img height="40" alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img height="40" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img height="40" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img height="40" alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img height="40" alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-</marquee>
+<p align="left">
+  <img height="44" alt="Go" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
+  <img height="44" alt="gRPC" src="https://img.shields.io/badge/-gRPC-2DB67D?style=flat-square&logo=grpc&logoColor=white" />
+  <img height="44" alt="Protocol Buffers" src="https://img.shields.io/badge/-Protocol%20Buffers-009688?style=flat-square&logo=protocol-buffers&logoColor=white" />
+  <img height="44" alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
+  <img height="44" alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img height="44" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img height="44" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img height="44" alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img height="44" alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img height="44" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img height="44" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img height="44" alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img height="44" alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+</p>
 
 <br />
 
@@ -73,4 +73,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=0ay5rzmzkb6eldm2sn78z1ras&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="kurnhyalcantara" />
+
 
