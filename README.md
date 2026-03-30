@@ -42,7 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile          23 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
+Markdown          22 mins               ██████░░░░░░░░░░░░░░░░░░░   24.18 %
+Go                16 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+Protocol Buffer   11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Other             7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
 ```
 
 <!--END_SECTION:waka-->
